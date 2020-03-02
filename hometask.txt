@@ -1,1 +1,13 @@
 Ветки различаются файлом README
+
+9 коммитов
+
+1)init
+2)boots
+3)README added
+4)dots
+5)fix readme
+6)boots_buttons
+7)Merge remote-tracking branch 'origin/buttons' into boots_buttons
+8)Merge remote-tracking branch 'origin/boots' into boots_buttons
+9)hometask.txt
